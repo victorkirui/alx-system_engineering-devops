@@ -1,0 +1,1 @@
+script switching current user
